@@ -1,2 +1,6 @@
 print("pozdrawiam z githuba")
-print("jeg skal til helvete med denne programen")
+print("i love my job")
+print('jeg elsker denne programmen')
+a = 3
+b = 5
+
