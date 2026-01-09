@@ -1,0 +1,1 @@
+print("pozdrawiam z githuba")
